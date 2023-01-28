@@ -1,3 +1,8 @@
+Design from figma:
+https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15&t=nCu7BrBEPTBUiBs1-0
+
+Tutorial from JavaScript Mastery
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
